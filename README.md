@@ -20,7 +20,7 @@ An Android application that lets you use your phone as a wireless numpad and fun
 
 1. Clone the repository:
 ```
-git clone https://github.com/xnull-eu/XNullRemoteKeys.git
+git clone https://github.com/xnull-eu/xnull-remote-keys.git
 ```
 
 2. Open the project in Android Studio
