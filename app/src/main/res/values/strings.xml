@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">XNull Remote Keys</string>
+    <string name="status_disconnected">Not connected to any device</string>
+    <string name="status_connected">Connected</string>
+    <string name="scan_for_devices">Scan for Devices</string>
+    <string name="scanning_devices">Scanning for devices…</string>
+    <string name="connection_error">Connection error: %1$s</string>
+    <string name="resolving_service">Resolving service…</string>
+    <string name="resolve_error">Failed to resolve service (error: %1$d)</string>
+    <string name="invalid_host">Invalid host address</string>
+    <string name="numpad">Numpad</string>
+    <string name="function_keys">Function Keys</string>
+    <string name="stop_scanning">Stop Scanning</string>
+</resources>
